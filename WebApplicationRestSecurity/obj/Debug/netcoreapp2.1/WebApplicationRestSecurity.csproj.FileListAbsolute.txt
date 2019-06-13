@@ -1,0 +1,14 @@
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\bin\Debug\netcoreapp2.1\WebApplicationRestSecurity.deps.json
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\bin\Debug\netcoreapp2.1\WebApplicationRestSecurity.runtimeconfig.json
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\bin\Debug\netcoreapp2.1\WebApplicationRestSecurity.runtimeconfig.dev.json
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\bin\Debug\netcoreapp2.1\WebApplicationRestSecurity.dll
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.csprojAssemblyReference.cache
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.csproj.CoreCompileInputs.cache
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.RazorAssemblyInfo.cache
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.RazorAssemblyInfo.cs
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.AssemblyInfoInputs.cache
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.AssemblyInfo.cs
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.RazorTargetAssemblyInfo.cache
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\bin\Debug\netcoreapp2.1\WebApplicationRestSecurity.pdb
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.dll
+C:\Users\VES-LAP25\Desktop\Web Api Rest\WebApplicationRestSecurity\WebApplicationRestSecurity\obj\Debug\netcoreapp2.1\WebApplicationRestSecurity.pdb
